@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a High School Student passionate about Python 
 
 ## 🚀 About Me
 
-- 🎓 Currently studying High School at 
+- 🎓 Currently studying High School
 - 💻 I specialize in Nothing lol
 - 🌱 I'm always learning and currently diving into Python and Reverse Engineer stuff
 - 👯 I’m looking to collaborate on Port Old Games to PC
