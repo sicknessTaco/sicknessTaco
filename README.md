@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a High School Student passionate about Python 
 
 ## 🧑‍💻 Languages & Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=python)
+![Py](https://skillicons.dev/icons?i=python)[C++](https://skillicons.dev/icons?i=C++)
 ## 🔗 Links
 - 📧 [Email](mailto:[zelito_punkk@outlook.com])
 
